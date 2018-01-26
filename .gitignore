@@ -1,6 +1,3 @@
-*.aux
-*.synctex.gz
-*.log
 # Prerequisites
 *.d
 
@@ -9,6 +6,9 @@
 *.ko
 *.obj
 *.elf
+*.aux
+*.synctex.gz
+*.log
 
 # Linker output
 *.ilk
