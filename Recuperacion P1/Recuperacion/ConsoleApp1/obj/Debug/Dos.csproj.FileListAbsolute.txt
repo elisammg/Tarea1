@@ -1,0 +1,7 @@
+C:\Users\elisa\Desktop\Recuperacion\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\elisa\Desktop\Recuperacion\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\elisa\Desktop\Recuperacion\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\elisa\Desktop\Recuperacion\ConsoleApp1\obj\Debug\Dos.csprojResolveAssemblyReference.cache
+C:\Users\elisa\Desktop\Recuperacion\ConsoleApp1\obj\Debug\Dos.csproj.CoreCompileInputs.cache
+C:\Users\elisa\Desktop\Recuperacion\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\elisa\Desktop\Recuperacion\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

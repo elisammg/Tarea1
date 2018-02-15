@@ -1,0 +1,7 @@
+C:\Users\elisa\Desktop\Recuperacion\Tres\bin\Debug\Tres.exe.config
+C:\Users\elisa\Desktop\Recuperacion\Tres\bin\Debug\Tres.exe
+C:\Users\elisa\Desktop\Recuperacion\Tres\bin\Debug\Tres.pdb
+C:\Users\elisa\Desktop\Recuperacion\Tres\obj\Debug\Tres.csprojResolveAssemblyReference.cache
+C:\Users\elisa\Desktop\Recuperacion\Tres\obj\Debug\Tres.csproj.CoreCompileInputs.cache
+C:\Users\elisa\Desktop\Recuperacion\Tres\obj\Debug\Tres.exe
+C:\Users\elisa\Desktop\Recuperacion\Tres\obj\Debug\Tres.pdb

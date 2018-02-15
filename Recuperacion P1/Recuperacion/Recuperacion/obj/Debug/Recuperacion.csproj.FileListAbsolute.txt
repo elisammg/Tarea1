@@ -1,0 +1,7 @@
+C:\Users\elisa\Desktop\Recuperacion\Recuperacion\bin\Debug\Recuperacion.exe.config
+C:\Users\elisa\Desktop\Recuperacion\Recuperacion\bin\Debug\Recuperacion.exe
+C:\Users\elisa\Desktop\Recuperacion\Recuperacion\bin\Debug\Recuperacion.pdb
+C:\Users\elisa\Desktop\Recuperacion\Recuperacion\obj\Debug\Recuperacion.csprojResolveAssemblyReference.cache
+C:\Users\elisa\Desktop\Recuperacion\Recuperacion\obj\Debug\Recuperacion.csproj.CoreCompileInputs.cache
+C:\Users\elisa\Desktop\Recuperacion\Recuperacion\obj\Debug\Recuperacion.exe
+C:\Users\elisa\Desktop\Recuperacion\Recuperacion\obj\Debug\Recuperacion.pdb
