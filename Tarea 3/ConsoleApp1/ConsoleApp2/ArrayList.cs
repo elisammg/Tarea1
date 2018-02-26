@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp2
 {
-    class ArrayList<T>: IList <T>
+    class ArrayList<T>: List <T>
     {
         private T almacenamiento;
 
