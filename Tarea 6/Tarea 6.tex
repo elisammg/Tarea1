@@ -1,0 +1,77 @@
+\documentclass{article}
+\author{Elisa Monzon Godoy}
+\title{Tarea No. 6}
+\begin{document}
+\maketitle
+\section{Ejercicio 1.}
+\begin{itemize}
+\item\textit{Dado un numero n que pertenece a los numero naturales unitarios y que este sea un n sucesor de cero ($\sigma n(0) = n$).}
+\item\textit{Y cero (0) el primer numero de los numeros naturales unitarios.}
+\end{itemize}
+\subsection{Suma de dos numeros naturales:}
+Caso base: 
+\begin{center}
+$n + 0 = n$\\
+$\sigma(n) + m = \sigma(n+m)$
+\end{center}
+Caso inductivo:
+\begin{center}
+$\sigma(\sigma(0) + \sigma(\sigma(0))$\\
+$\sigma(\sigma(0) +\sigma(\sigma(0))) $\\
+$\sigma(\sigma(0+\sigma(0))))$\\
+$\sigma(\sigma(\sigma(\sigma(0))))$
+\end{center}
+\emph{De manera que:\\
+$\sigma(n) = a$, $m = b$, $\sigma(n+m)= c$}
+\subsection{Multiplicacion de dos numeros naturales}
+Caso base: 
+\begin{center}
+$n * 0 =0$\\
+$\sigma(n) * m = \sigma((n)*m) +m$\\
+\end{center}
+Caso inductivo:
+\begin{center}
+$(\sigma(0) * \sigma(\sigma(0))$\\
+$\sigma(0) + \sigma(0) + \sigma(\sigma(0))veces...+\sigma(0)$\\
+$\sigma(0) + [\sigma(0) + \sigma(\sigma(0))veces...+\sigma(0)] $\\
+$\sigma(0)+ [\sigma(0) * (\sigma(0)] $\\
+$\sigma(\sigma(0))$
+\end{center}
+\subsection{Mayor que para numeros naturales}
+Caso base: 
+\begin{itemize}
+\item$\sigma(0) > 0$
+\item$\sigma(\sigma(n))>0$
+\end{itemize}
+Caso inductivo:
+\begin{itemize}
+\item$\sigma(\sigma(0) > \sigma(0)$\\
+$\sigma(0) > 0$\\
+\item$\sigma(\sigma(n)) > n$\\
+$\sigma(\sigma(\sigma(n))) > \sigma(n)$\\
+$\sigma(\sigma(n))>n$
+\end{itemize}
+\section{Ejercicio 2.}
+\subsection{Demostracion 1}
+\begin{center}
+$n+0=n$:\\
+$\sigma(0) + \sigma(n)$\\
+$\sigma (0 + n)$\\
+$\sigma(n)$
+\end{center}
+\subsection{Demostracion 2}
+\begin{center}
+$n+m = m+n$:\\
+$\sigma(\sigma((0)) + \sigma(\sigma(\sigma((0)))$ o \\
+$\sigma(\sigma(\sigma((0))) + \sigma(\sigma((0))$ =\\
+$\sigma (\sigma(\sigma(0)) + \sigma(0))$\\
+$\sigma(\sigma(\sigma(\sigma(\sigma(0))))))$
+\end{center}
+\subsection{Demostracion 3}
+\begin{center}
+$n \otimes \sigma(\sigma(0)) = n \otimes n$:\\
+$\sigma(n) \otimes \sigma(\sigma(0))$\\
+$\sigma (\sigma(0) \otimes n)$\\
+$\sigma(n) \otimes \sigma(n)$
+\end{center}
+\end{document}
