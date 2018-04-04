@@ -1,0 +1,7 @@
+C:\Users\elisa\Documents\Tercer semestre 2018\Informatica 2\Que\Parcial2\Parcial2\bin\Debug\Parcial2.exe.config
+C:\Users\elisa\Documents\Tercer semestre 2018\Informatica 2\Que\Parcial2\Parcial2\bin\Debug\Parcial2.exe
+C:\Users\elisa\Documents\Tercer semestre 2018\Informatica 2\Que\Parcial2\Parcial2\bin\Debug\Parcial2.pdb
+C:\Users\elisa\Documents\Tercer semestre 2018\Informatica 2\Que\Parcial2\Parcial2\obj\Debug\Parcial2.csprojResolveAssemblyReference.cache
+C:\Users\elisa\Documents\Tercer semestre 2018\Informatica 2\Que\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.CoreCompileInputs.cache
+C:\Users\elisa\Documents\Tercer semestre 2018\Informatica 2\Que\Parcial2\Parcial2\obj\Debug\Parcial2.exe
+C:\Users\elisa\Documents\Tercer semestre 2018\Informatica 2\Que\Parcial2\Parcial2\obj\Debug\Parcial2.pdb
