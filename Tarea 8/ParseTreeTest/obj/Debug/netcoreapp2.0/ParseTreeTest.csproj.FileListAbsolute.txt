@@ -1,0 +1,16 @@
+c:\users\elisa\source\repos\ParseTree\ParseTreeTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\users\elisa\source\repos\ParseTree\ParseTreeTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+c:\users\elisa\source\repos\ParseTree\ParseTreeTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+c:\users\elisa\source\repos\ParseTree\ParseTreeTest\bin\Debug\netcoreapp2.0\ParseTreeTest.deps.json
+c:\users\elisa\source\repos\ParseTree\ParseTreeTest\bin\Debug\netcoreapp2.0\ParseTreeTest.runtimeconfig.json
+c:\users\elisa\source\repos\ParseTree\ParseTreeTest\bin\Debug\netcoreapp2.0\ParseTreeTest.runtimeconfig.dev.json
+c:\users\elisa\source\repos\ParseTree\ParseTreeTest\bin\Debug\netcoreapp2.0\ParseTreeTest.dll
+c:\users\elisa\source\repos\ParseTree\ParseTreeTest\bin\Debug\netcoreapp2.0\ParseTreeTest.pdb
+c:\users\elisa\source\repos\ParseTree\ParseTreeTest\bin\Debug\netcoreapp2.0\ParseTree.dll
+c:\users\elisa\source\repos\ParseTree\ParseTreeTest\bin\Debug\netcoreapp2.0\ParseTree.pdb
+c:\users\elisa\source\repos\ParseTree\ParseTreeTest\obj\Debug\netcoreapp2.0\ParseTreeTest.csprojResolveAssemblyReference.cache
+c:\users\elisa\source\repos\ParseTree\ParseTreeTest\obj\Debug\netcoreapp2.0\ParseTreeTest.csproj.CoreCompileInputs.cache
+c:\users\elisa\source\repos\ParseTree\ParseTreeTest\obj\Debug\netcoreapp2.0\ParseTreeTest.AssemblyInfoInputs.cache
+c:\users\elisa\source\repos\ParseTree\ParseTreeTest\obj\Debug\netcoreapp2.0\ParseTreeTest.AssemblyInfo.cs
+c:\users\elisa\source\repos\ParseTree\ParseTreeTest\obj\Debug\netcoreapp2.0\ParseTreeTest.dll
+c:\users\elisa\source\repos\ParseTree\ParseTreeTest\obj\Debug\netcoreapp2.0\ParseTreeTest.pdb

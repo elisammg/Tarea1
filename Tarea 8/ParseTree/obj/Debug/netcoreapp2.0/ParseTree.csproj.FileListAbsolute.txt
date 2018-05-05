@@ -1,0 +1,11 @@
+c:\users\elisa\source\repos\ParseTree\ParseTree\bin\Debug\netcoreapp2.0\ParseTree.deps.json
+c:\users\elisa\source\repos\ParseTree\ParseTree\bin\Debug\netcoreapp2.0\ParseTree.runtimeconfig.json
+c:\users\elisa\source\repos\ParseTree\ParseTree\bin\Debug\netcoreapp2.0\ParseTree.runtimeconfig.dev.json
+c:\users\elisa\source\repos\ParseTree\ParseTree\bin\Debug\netcoreapp2.0\ParseTree.dll
+c:\users\elisa\source\repos\ParseTree\ParseTree\bin\Debug\netcoreapp2.0\ParseTree.pdb
+c:\users\elisa\source\repos\ParseTree\ParseTree\obj\Debug\netcoreapp2.0\ParseTree.csprojResolveAssemblyReference.cache
+c:\users\elisa\source\repos\ParseTree\ParseTree\obj\Debug\netcoreapp2.0\ParseTree.csproj.CoreCompileInputs.cache
+c:\users\elisa\source\repos\ParseTree\ParseTree\obj\Debug\netcoreapp2.0\ParseTree.AssemblyInfoInputs.cache
+c:\users\elisa\source\repos\ParseTree\ParseTree\obj\Debug\netcoreapp2.0\ParseTree.AssemblyInfo.cs
+c:\users\elisa\source\repos\ParseTree\ParseTree\obj\Debug\netcoreapp2.0\ParseTree.dll
+c:\users\elisa\source\repos\ParseTree\ParseTree\obj\Debug\netcoreapp2.0\ParseTree.pdb
