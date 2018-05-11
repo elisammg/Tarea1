@@ -1,0 +1,36 @@
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\HeapTest\obj\Debug\HeapTest.csprojResolveAssemblyReference.cache
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\HeapTest\obj\Debug\HeapTest.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\HeapTest\bin\Debug\xunit.abstractions.dll
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\HeapTest\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\HeapTest\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\HeapTest\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\HeapTest\bin\Debug\HeapTest.dll
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\HeapTest\bin\Debug\HeapTest.pdb
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\HeapTest\bin\Debug\xunit.assert.dll
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\HeapTest\bin\Debug\xunit.core.dll
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\HeapTest\bin\Debug\xunit.assert.pdb
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\HeapTest\bin\Debug\xunit.assert.xml
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\HeapTest\bin\Debug\xunit.core.pdb
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\HeapTest\bin\Debug\xunit.core.xml
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\HeapTest\obj\Debug\HeapTest.csproj.CopyComplete
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\HeapTest\obj\Debug\HeapTest.dll
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\HeapTest\obj\Debug\HeapTest.pdb
+C:\Users\elisa\Documents\Hoja9\Heap\HeapTest\bin\Debug\xunit.abstractions.dll
+C:\Users\elisa\Documents\Hoja9\Heap\HeapTest\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\elisa\Documents\Hoja9\Heap\HeapTest\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\elisa\Documents\Hoja9\Heap\HeapTest\bin\Debug\xunit.execution.desktop.dll
+C:\Users\elisa\Documents\Hoja9\Heap\HeapTest\bin\Debug\HeapTest.dll
+C:\Users\elisa\Documents\Hoja9\Heap\HeapTest\bin\Debug\HeapTest.pdb
+C:\Users\elisa\Documents\Hoja9\Heap\HeapTest\bin\Debug\Heap.exe
+C:\Users\elisa\Documents\Hoja9\Heap\HeapTest\bin\Debug\xunit.assert.dll
+C:\Users\elisa\Documents\Hoja9\Heap\HeapTest\bin\Debug\xunit.core.dll
+C:\Users\elisa\Documents\Hoja9\Heap\HeapTest\bin\Debug\Heap.pdb
+C:\Users\elisa\Documents\Hoja9\Heap\HeapTest\bin\Debug\Heap.exe.config
+C:\Users\elisa\Documents\Hoja9\Heap\HeapTest\bin\Debug\xunit.assert.pdb
+C:\Users\elisa\Documents\Hoja9\Heap\HeapTest\bin\Debug\xunit.assert.xml
+C:\Users\elisa\Documents\Hoja9\Heap\HeapTest\bin\Debug\xunit.core.pdb
+C:\Users\elisa\Documents\Hoja9\Heap\HeapTest\bin\Debug\xunit.core.xml
+C:\Users\elisa\Documents\Hoja9\Heap\HeapTest\obj\Debug\HeapTest.csprojResolveAssemblyReference.cache
+C:\Users\elisa\Documents\Hoja9\Heap\HeapTest\obj\Debug\HeapTest.csproj.CoreCompileInputs.cache
+C:\Users\elisa\Documents\Hoja9\Heap\HeapTest\obj\Debug\HeapTest.dll
+C:\Users\elisa\Documents\Hoja9\Heap\HeapTest\obj\Debug\HeapTest.pdb

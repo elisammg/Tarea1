@@ -1,0 +1,14 @@
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\Heap\bin\Debug\Heap.exe.config
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\Heap\bin\Debug\Heap.exe
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\Heap\bin\Debug\Heap.pdb
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\Heap\obj\Debug\Heap.csprojResolveAssemblyReference.cache
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\Heap\obj\Debug\Heap.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\Heap\obj\Debug\Heap.exe
+C:\Users\Andres\Documents\UNIS\INF. GIT\Hoja9\Heap\Heap\obj\Debug\Heap.pdb
+C:\Users\elisa\Documents\Hoja9\Heap\Heap\bin\Debug\Heap.exe.config
+C:\Users\elisa\Documents\Hoja9\Heap\Heap\bin\Debug\Heap.exe
+C:\Users\elisa\Documents\Hoja9\Heap\Heap\bin\Debug\Heap.pdb
+C:\Users\elisa\Documents\Hoja9\Heap\Heap\obj\Debug\Heap.csproj.CoreCompileInputs.cache
+C:\Users\elisa\Documents\Hoja9\Heap\Heap\obj\Debug\Heap.exe
+C:\Users\elisa\Documents\Hoja9\Heap\Heap\obj\Debug\Heap.pdb
+C:\Users\elisa\Documents\Hoja9\Heap\Heap\obj\Debug\Heap.csprojResolveAssemblyReference.cache
